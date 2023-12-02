@@ -1,11 +1,25 @@
 ---
-title: Example Reference
+title: Todos los integrantes
 description: A reference page in my new Starlight docs site.
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.
+Este proyecto está conformado por los alumnos de 7mo 2da del ciclo 2023 de la Tecnica 2 Rodolfo Walsh de Florencio Varela.
 
-## Further reading
+Integrantes: 
+- Lionel Farias
+- Alejo Franco 
+- Mateo Cortez Valencia
+- Fabricio Ezequiel Barroso
+- Graciani Gianluca Gabriel
+- Alan Sjneider Sullca
+- Alexis Uriel Vasconcello 
+- Naim Britos
+- Luciano
+- Mariano 
+- Gonzalo
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+
+
+## Seguir leyendo
+
+- Leer [empezando](http://localhost:4321/guides/example/) con el Sistema de Suplencias

@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'StalinistOne';
+  /* Utiliza una ruta relativa al archivo de fuente local dentro de la función `url()`. */
+  src: url('./StalinistOne-Regular.ttf') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

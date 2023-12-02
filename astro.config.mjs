@@ -1,24 +1,42 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
+
+
+
+export const locales = {
+	root: { label: 'Español', lang: 'es' },
+	en: { label: 'English', lang: 'en' },
+
+};
+
+
+
 // https://astro.build/config
+
+
+
+
+
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: {
-				github: 'https://github.com/withastro/starlight',
-			},
+	
+			locales: locales,
+		
+			title: 'SSDSP',
+			customCss: ['/src/styles/custom.css', '/src/fonts/fonts-face.css'],
 			sidebar: [
+				
 				{
-					label: 'Guides',
+					label: 'Comienza aquí',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
+						{ label: 'Empezando', link: '/guides/example/' },
 					],
 				},
 				{
-					label: 'Reference',
+					label: 'Creadores',
 					autogenerate: { directory: 'reference' },
 				},
 			],
