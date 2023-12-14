@@ -16,8 +16,6 @@ export const locales = {
 
 
 
-
-
 export default defineConfig({
 	integrations: [
 		starlight({
@@ -31,9 +29,17 @@ export default defineConfig({
 				{
 					label: 'Comienza aquí',
 					items: [
-						// Each item here is one entry in the navigation menu.
+					
 						{ label: 'Empezando', link: '/guides/example/' },
 					],
+				},
+
+					{
+					label: 'Guía',
+					autogenerate: {
+						directory: "user-guide"
+					}
+					
 				},
 				{
 					label: 'Creadores',

@@ -11,12 +11,12 @@ Integrantes:
 - Mateo Cortez Valencia
 - Fabricio Ezequiel Barroso
 - Graciani Gianluca Gabriel
-- Alan Sjneider Sullca
+- Alan Leon Sullca
 - Alexis Uriel Vasconcello 
 - Naim Britos
-- Luciano
-- Mariano 
-- Gonzalo
+- Luciano Vizgarra 
+- Alexis Delgado
+- Gonzalo Bouquet
 
 
 
