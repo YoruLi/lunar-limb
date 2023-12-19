@@ -5,9 +5,7 @@ description: Explicacion, de como se crea un plan de estudio, para que posterior
 
 
 
-En la ventana Agregar Plan de Estudio, se debe de ingresar informacion fundamental del mismo.
-
-
+En esta ventaa se agregan los distintos planes de estudio de las materias, se debe de ingresar informacion fundamental del mismo.
 La ventana presenta un formulario, en el cual se debe de ingresar informacion fundamental, tales como nombre, descripcion y resolucion del plan de estudio.
 
 ![Ventana de login de la aplicación](../../../assets/materia/crear-plan-estudio.jpg)
