@@ -3,8 +3,6 @@ title: Cursos
 description: Explicacion, de como se crea un curso, para que posteriormente se utilice en la apliacion web.
 ---
 
-
-
 En la ventana Agregar Curso, se selecciona las opciones con la información del mismo.
 
 Seleccionar la información de la especialidad, la divisiín del curso. EL ciclo lectivo se selecciona automaticamente según el año actual.
@@ -15,7 +13,10 @@ Luego de completar la anterior ventena, se encuentran los cursos previamente agr
 
 ![Ventana de login de la aplicación](../../../assets/cursos/cursos.jpg)
 
-En caso de error con la informacion del curso, se edita presionando el curso erroneo y luego se lo modifica o elimina.
+En caso de querer modificar o eliminar el curso, se logra presionando sobre el que desea realizar dicha acción.
+
+:::caution
+En caso de que quieras eliminar un curso ya asignada a un cargo, se mostrará una alerta de error para notificarte que actualmente que dicho curso está siendo ocupado.[](../../).
+:::
 
 ![Ventana de login de la aplicación](../../../assets/cursos/editar-curso.jpg)
-
